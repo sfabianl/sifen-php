@@ -11,7 +11,7 @@ La idea es facilitar tareas comunes que se presentan en la integración con SIFE
 
 ## 📂 Contenido
 
-- `enviar_lote_simple.php`  
+- `enviarLote.php`  
   Script básico en PHP que toma un archivo ZIP, lo codifica en base64 y lo envía al endpoint SOAP de SIFEN usando un certificado digital.  
   Muestra la respuesta XML **tal cual** llega del servicio.
 
